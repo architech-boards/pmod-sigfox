@@ -9,7 +9,7 @@ The board is provided with:
 
 - NXP KL26Z board
 - TD1207 Module Sigfox
-- RSR*** board
+- RSR1066 board
 
 The TD1207 module provides a protocol connectivity using a simple UART interface. The NXP **MKLS26Z** is connected to the TD1207 module using the configuration 9600 8N1 without using RTS, CTS lines.
 

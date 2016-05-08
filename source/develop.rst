@@ -16,7 +16,7 @@ Hardware required:
 
 - PMOD-Sigfox
 
-- RSR*** board
+- RSR1066 board
 
 - FRDM-KL26Z board by Freescale
 
@@ -34,6 +34,19 @@ Download the IDE from `this page <http://www.freescale.com/tools/software-and-to
 Next, launch the downloaded file **CW_MCU_v10.6.4_Special_Edition.exe** following all the default options. Once it is installed will be created its icon on the desktop.
 
 .. image:: _static/codewarrior_icon.jpg
+
+Prepare the Hardware
+********************
+
+Here you will see all the messages sent by your device. Now take the FRDM-KL26Z board and connect it to the RSR1066 board. It is required mount the strip connectors:
+
+.. image:: _static/strips.jpg
+.. image:: _static/rsr1066.jpg
+
+Connect the PMOD module to the CN7 then power supply the FRDM board via mini USB connection.
+
+.. image:: _static/pmod-board.jpg
+
 
 Configure the FRDM-KL26Z with OpenSDA interface
 ***********************************************
