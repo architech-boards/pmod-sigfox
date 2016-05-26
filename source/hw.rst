@@ -16,7 +16,7 @@ The TD1207 module provides a protocol connectivity using a simple UART interface
 The board
 *********
 
-.. image:: _static/board_info.jpg
+.. image:: _static/pmod_board.jpg
 
 Commands used
 *************
