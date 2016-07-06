@@ -3,9 +3,9 @@
 Welcome to PMOD-Sigfox documentation!
 =====================================
 
-:Version: 1.00A
-:Copyright: (C)2016 Avnet Memec Silica company
-:Date: 23 Mar 2016
+:Version: 1.00B
+:Copyright: (C)2016 Avnet Silica company
+:Date: 6 Jul 2016
 :Reference name: BAEPMOD-COM-001-A01
 
 Sigfox’s Long Range Low Power End Node solution
